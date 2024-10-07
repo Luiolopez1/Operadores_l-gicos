@@ -1,0 +1,21 @@
+operadores lógicos te permiten tomar decisiones complejas combinando condiciones y controlando el flujo de tu programa
+
+        var aPreincremento :Int = 5
+        var bPredecremento :Int = 5
+        var cPosincremento :Int = 5
+        var dPosdecremento :Int = 5
+        println(aPreincremento)
+        println(aPreincremento++)
+        println(aPreincremento)
+
+        println(bPredecremento)
+        println(--bPredecremento)
+        println(bPredecremento)
+
+        println(cPosincremento)
+        println(cPosincremento++)
+        println(cPosincremento)
+
+        println(dPosdecremento)
+        print(--dPosdecremento)
+        println(dPosdecremento)
